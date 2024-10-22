@@ -1,0 +1,14 @@
+/* Full screen and centered */
+html, body {
+    height: 100vh;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #87ceeb;
+}
+
+canvas {
+    display: block;
+}
