@@ -10,7 +10,7 @@ This project is a 3D animation of the Nigerian flag, created using [Three.js](ht
 
 ## Live Demo
 
-Check out the live demo [here](https://chriskript.io).
+Check out the live demo [here](https://chriskript.github.io/waving-nigeria-flag/).
 
 ## Installation
 
