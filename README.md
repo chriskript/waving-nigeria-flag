@@ -1,6 +1,6 @@
 # Nigerian Flag Animation with Three.js
 
-This project is a 3D animation of the Nigerian flag, created using [Three.js](https://threejs.org/). The flag waves naturally, with the left edge fixed as if it's attached to a flagpole. The animation uses custom shaders to produce the waving effect.
+This project is a 3D animation of the Nigerian flag, created using [Three.js](https://threejs.org/). The flag waves naturally, with the left edge fixed as if it's attached to a flagpole. I used custom shaders to produce the waving effect.
 
 ## Features
 
